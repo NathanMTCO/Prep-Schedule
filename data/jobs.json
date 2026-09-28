@@ -17738,6 +17738,23 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "Off Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "BL3 4JJ",
+        "contract_number": "0000031970",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Eldercot Road, Bolton, , BL3 4JJ | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 11:14"
       }
     ],
     "2026-10-06": [
