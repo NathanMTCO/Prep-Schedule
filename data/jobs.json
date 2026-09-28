@@ -17650,6 +17650,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 24x Canteen chair",
         "added_by": "MCS Auto",
         "timestamp": "25/09/2026 11:24"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Almond Civils Ltd",
+        "postcode": "CA11 9NL",
+        "contract_number": "0000031900",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Kitchen Hill, Catterlen, Newton Reigny, Westmorland and Furness, CA11 9NL | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 14:32"
       }
     ],
     "2026-10-01": [
