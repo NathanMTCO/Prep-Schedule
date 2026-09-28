@@ -17667,6 +17667,32 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Kitchen Hill, Catterlen, Newton Reigny, Westmorland and Furness, CA11 9NL | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "28/09/2026 14:32"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Think Hire  Ltd",
+        "postcode": "HD3 3RS",
+        "contract_number": "0000031757",
+        "units": {
+          "20ft AV": 2,
+          "10ft Store": 1,
+          "2+1": 1,
+          "Steps": 2
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: AINLEY TOP, AMEY DEPOT, LINDLEY MOOR ROAD, HUDDERSFIELD, HD3 3RS | Also on contract: 1x 1000G Eflluent Tank",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 16:06",
+        "av_configs": {
+          "20ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
       }
     ],
     "2026-10-01": [
