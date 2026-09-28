@@ -5,8 +5,10 @@
       "customer": "H H Smith",
       "requested_by": "Mitch Garnett",
       "requested_at": "28/09/2026 07:19",
-      "status": "pending",
-      "detail": ""
+      "status": "running",
+      "detail": "Being processed by the worker",
+      "claimed_at": "28/09/2026 08:26",
+      "claimed_by": "99479395"
     }
   ],
   "history": []
