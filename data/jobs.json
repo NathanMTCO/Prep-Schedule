@@ -17830,6 +17830,40 @@
         "moved_by": "\u2014",
         "moved_from": "2026-09-25",
         "edited_at": "17/09/2026 11:25"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "CLC Contractors Ltd",
+        "postcode": "OL9 0JN",
+        "contract_number": "0000030671",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Andrew Street, Chadderton, Oldham, , OL9 0JN",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 11:35"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "CLC Contractors Ltd",
+        "postcode": "OL9 0JN",
+        "contract_number": "0000031012",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: CLC compound between Chadderton Wellbeing Centre and, 19 Andrew Street, , OL9 0JN",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 11:35"
       }
     ],
     "2026-10-05": [
