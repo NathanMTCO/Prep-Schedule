@@ -18027,6 +18027,55 @@
         "added_by": "MCS Auto",
         "timestamp": "25/09/2026 09:51"
       }
+    ],
+    "2026-10-19": [
+      {
+        "type": "On Hire",
+        "customer": "Artium Construction Limited",
+        "postcode": "",
+        "contract_number": "0000032050",
+        "units": {
+          "24ft AV": 2,
+          "Stairs": 2,
+          "32ft AV": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 8x Cushion Chair; 1x Double Stack/ Erect Staircase; 1x Destack; 1x ARTIUM DECAL",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 09:31",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Meeting Room": 1
+          },
+          "32ft AV": {
+            "Canteen": 1
+          }
+        }
+      }
+    ],
+    "2026-10-07": [
+      {
+        "type": "Off Hire",
+        "customer": "Greenmount Projects Ltd",
+        "postcode": "WN6 7DD",
+        "contract_number": "0000031036",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Wigan and Leigh College, Prescott Street, Wigan, , WN6 7DD",
+        "added_by": "MCS Auto",
+        "timestamp": "28/09/2026 09:31"
+      }
     ]
   },
   "mcs": {
