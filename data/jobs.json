@@ -12369,32 +12369,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: 32 Coronation Drive, Leigh, , WN72UU",
         "added_by": "MCS Auto",
         "timestamp": "01/09/2026 15:24"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "P Hughes Construction Ltd",
-        "postcode": "OL10 2TB",
-        "contract_number": "0000031484",
-        "units": {
-          "24ft AV": 2,
-          "IBC": 2,
-          "32ft AV": 1,
-          "2+1": 1,
-          "Steps": 2
-        },
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Bellway Homes, Harehill Farm, Hareshill  Road, Heywood, OL10 2TB | Also on contract: 1x Initial Water Fill; 1x Weekly Water Fill; 1x Pump; 1x 1000G Eflluent Tank; 1x Pump; 1x Weekly Tank Empty Every 2 weeks; 1x Disposable Sanitary Bins x 10pk",
-        "added_by": "MCS Auto",
-        "timestamp": "04/09/2026 10:01",
-        "av_configs": {
-          "24ft AV": {
-            "Canteen": 1
-          }
-        }
       }
     ],
     "2026-08-19": [
@@ -16884,23 +16858,6 @@
           }
         },
         "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
-        "customer": "John Reilly Civil Engineering Ltd",
-        "postcode": "",
-        "contract_number": "0000032055",
-        "units": {
-          "IBC": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Initial Water Fill; 1x Weekly Water Fill",
-        "added_by": "MCS Auto",
-        "timestamp": "29/09/2026 12:27"
       }
     ],
     "2026-09-30": [
@@ -17437,6 +17394,51 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: St Marys Gate, Stockport, , SK1 1YA",
         "added_by": "MCS Auto",
         "timestamp": "25/09/2026 16:14"
+      },
+      {
+        "type": "On Hire",
+        "customer": "John Reilly Civil Engineering Ltd",
+        "postcode": "",
+        "contract_number": "0000032055",
+        "units": {
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Initial Water Fill; 1x Weekly Water Fill | Date moved by MCS Auto from 29/09/2026 to 02/10/2026 on 29/09/2026 12:37",
+        "added_by": "MCS Auto",
+        "timestamp": "29/09/2026 12:37",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "P Hughes Construction Ltd",
+        "postcode": "OL10 2TB",
+        "contract_number": "0000031484",
+        "units": {
+          "24ft AV": 2,
+          "IBC": 2,
+          "32ft AV": 1,
+          "2+1": 1,
+          "Steps": 2
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Bellway Homes, Harehill Farm, Hareshill  Road, Heywood, OL10 2TB | Also on contract: 1x Initial Water Fill; 1x Weekly Water Fill; 1x Pump; 1x 1000G Eflluent Tank; 1x Pump; 1x Weekly Tank Empty Every 2 weeks; 1x Disposable Sanitary Bins x 10pk | Return date moved by MCS Auto from 07/09/2026 to 02/10/2026 on 29/09/2026 12:37",
+        "added_by": "MCS Auto",
+        "timestamp": "29/09/2026 12:37",
+        "av_configs": {
+          "24ft AV": {
+            "Canteen": 1
+          }
+        },
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-09-28": [
