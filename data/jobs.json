@@ -17797,6 +17797,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: COUNTRYSIDE PROPERTIES ANCHOR LANE, Little Hulton, , M38 9TT",
         "added_by": "MCS Auto",
         "timestamp": "29/09/2026 14:53"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Wright Build Ltd",
+        "postcode": "WN2 4NU",
+        "contract_number": "0000031549",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: 19 CHARLESWORTH AVENUE, HINDLEY, , WN2 4NU",
+        "added_by": "MCS Auto",
+        "timestamp": "29/09/2026 15:03"
       }
     ],
     "2026-10-12": [
