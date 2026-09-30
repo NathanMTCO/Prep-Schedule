@@ -17868,40 +17868,6 @@
         "edited_at": "17/09/2026 11:25"
       },
       {
-        "type": "Off Hire",
-        "customer": "CLC Contractors Ltd",
-        "postcode": "OL9 0JN",
-        "contract_number": "0000030671",
-        "units": {
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Andrew Street, Chadderton, Oldham, , OL9 0JN",
-        "added_by": "MCS Auto",
-        "timestamp": "28/09/2026 11:35"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "CLC Contractors Ltd",
-        "postcode": "OL9 0JN",
-        "contract_number": "0000031012",
-        "units": {
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: CLC compound between Chadderton Wellbeing Centre and, 19 Andrew Street, , OL9 0JN",
-        "added_by": "MCS Auto",
-        "timestamp": "28/09/2026 11:35"
-      },
-      {
         "type": "On Hire",
         "customer": "Bellway Homes North West Division",
         "postcode": "",
@@ -18285,6 +18251,44 @@
             "Canteen": 1
           }
         },
+        "date_moved_by": "MCS Auto"
+      }
+    ],
+    "2026-10-13": [
+      {
+        "type": "Off Hire",
+        "customer": "CLC Contractors Ltd",
+        "postcode": "OL9 0JN",
+        "contract_number": "0000030671",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Andrew Street, Chadderton, Oldham, , OL9 0JN | Return date moved by MCS Auto from 12/10/2026 to 13/10/2026 on 30/09/2026 15:22",
+        "added_by": "MCS Auto",
+        "timestamp": "30/09/2026 15:22",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "CLC Contractors Ltd",
+        "postcode": "OL9 0JN",
+        "contract_number": "0000031012",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: CLC compound between Chadderton Wellbeing Centre and, 19 Andrew Street, , OL9 0JN | Return date moved by MCS Auto from 12/10/2026 to 13/10/2026 on 30/09/2026 15:22",
+        "added_by": "MCS Auto",
+        "timestamp": "30/09/2026 15:22",
         "date_moved_by": "MCS Auto"
       }
     ]
