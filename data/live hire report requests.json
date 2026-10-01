@@ -5,8 +5,10 @@
       "customer": "CHELT001",
       "requested_by": "Mitch Garnett",
       "requested_at": "01/10/2026 07:50",
-      "status": "pending",
-      "detail": ""
+      "status": "running",
+      "detail": "Being processed by the worker",
+      "claimed_at": "01/10/2026 10:28",
+      "claimed_by": "f1713db0"
     }
   ],
   "history": []
