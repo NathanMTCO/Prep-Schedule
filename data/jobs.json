@@ -17832,6 +17832,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: 19 CHARLESWORTH AVENUE, HINDLEY, , WN2 4NU",
         "added_by": "MCS Auto",
         "timestamp": "29/09/2026 15:03"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Wainhomes (North West) Ltd",
+        "postcode": "SY13 4LR",
+        "contract_number": "0000031818",
+        "units": {
+          "IBC": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Buttercup View, Mile Bank Road, Whitchurch, Shropshir, SY13 4LR | Also on contract: 1x Initial Water Fill; 1x Pump; 1x Pump; 2x One Off Water Fill",
+        "added_by": "MCS Auto",
+        "timestamp": "01/10/2026 10:29"
       }
     ],
     "2026-10-12": [
@@ -17972,6 +17989,23 @@
         "added_by": "MCS Auto",
         "timestamp": "29/09/2026 10:33",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "",
+        "contract_number": "0000032061",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "added_by": "MCS Auto",
+        "timestamp": "01/10/2026 10:29"
       }
     ],
     "2026-10-08": [
@@ -18290,6 +18324,25 @@
         "added_by": "MCS Auto",
         "timestamp": "30/09/2026 15:22",
         "date_moved_by": "MCS Auto"
+      }
+    ],
+    "2026-10-16": [
+      {
+        "type": "Off Hire",
+        "customer": "Termrim Construction Ltd",
+        "postcode": "LS29 6AR",
+        "contract_number": "0000031911",
+        "units": {
+          "Mobile Welfare": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Moor Lane, Menston, Ilkley, , LS29 6AR | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "added_by": "MCS Auto",
+        "timestamp": "01/10/2026 10:29"
       }
     ]
   },
