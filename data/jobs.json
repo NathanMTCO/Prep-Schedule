@@ -18338,6 +18338,23 @@
           }
         },
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Chandos Civil Engineering Ltd",
+        "postcode": "",
+        "contract_number": "0000032069",
+        "units": {
+          "2+1": 1
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "02/10/2026 15:57"
       }
     ],
     "2026-10-13": [
