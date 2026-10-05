@@ -5,8 +5,10 @@
       "customer": "HSSH001",
       "requested_by": "Pete Billingham",
       "requested_at": "05/10/2026 10:11",
-      "status": "pending",
-      "detail": ""
+      "status": "running",
+      "detail": "Being processed by the worker",
+      "claimed_at": "05/10/2026 11:16",
+      "claimed_by": "237f9fa4"
     }
   ],
   "history": []
