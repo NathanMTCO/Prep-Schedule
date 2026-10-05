@@ -18495,6 +18495,25 @@
             "Office": 1
           }
         }
+      },
+      {
+        "customer": "Termrim",
+        "postcode": "LS29 6AR",
+        "contract_number": "0000031911",
+        "type": "Off Hire",
+        "site_move_type": "",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "av_configs": {},
+        "install_dismantle": false,
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "Standard Livery",
+        "livery_note": "",
+        "notes": "collection of unit 8413 is booked for 16/10\ncollection of unit 8409 is booked for 26/10 as per customer reuqest.",
+        "added_by": "Peter",
+        "timestamp": "05/10/2026 09:47"
       }
     ]
   },
