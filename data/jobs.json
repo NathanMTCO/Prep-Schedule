@@ -18401,6 +18401,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x On Site move of 20ft store 8070 form from Barratts WA8 3UJ s",
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 10:10"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Proservice Building Services",
+        "postcode": "HD1 6LD",
+        "contract_number": "0000031767",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: HILLHOUSE SIDINGS, ALDER STREET, HUDDERSFIELD, , HD1 6LD",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 12:20"
       }
     ],
     "2026-10-13": [
