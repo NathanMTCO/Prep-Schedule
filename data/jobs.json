@@ -18077,6 +18077,21 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x ReHire Welfare Unit",
         "added_by": "MCS Auto",
         "timestamp": "02/10/2026 09:50"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Aspire Construction Projects Ltd",
+        "postcode": "WA3 3JD",
+        "contract_number": "0000031772",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: YEW TREE WAY, STONECROSS BUISNESS PARK, WARRINGTON, , WA3 3JD | Also on contract: 1x 24FT Solar Powered Welfare",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 09:31"
       }
     ],
     "2026-10-09": [
@@ -18393,6 +18408,23 @@
         "added_by": "MCS Auto",
         "timestamp": "30/09/2026 15:22",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "PAS (NW) Ltd",
+        "postcode": "",
+        "contract_number": "0000032070",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 09:31"
       }
     ],
     "2026-10-16": [
@@ -18431,6 +18463,47 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "02/10/2026 09:31"
+      }
+    ],
+    "2026-10-26": [
+      {
+        "type": "On Hire",
+        "customer": "Domis Plant Ltd",
+        "postcode": "",
+        "contract_number": "0000032071",
+        "units": {
+          "Stairs": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 2x 32ft 6+1 Toilet Block FR; 2x Double Stack/ Erect Staircase; 2x Destack",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 09:31"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Manchester and Cheshire",
+        "postcode": "SK12 1NW",
+        "contract_number": "0000031543",
+        "units": {
+          "32ft AV": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: VERNON PRIMARY SCHOOL, CLUMBER ROAD, POYNTON, , SK12 1NW",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 09:31",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1
+          }
+        }
       }
     ]
   },
