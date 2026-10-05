@@ -17415,23 +17415,6 @@
         "added_by": "MCS Auto",
         "timestamp": "01/10/2026 12:08",
         "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
-        "customer": "Cheltenham Green Property Ltd",
-        "postcode": "",
-        "contract_number": "0000032066",
-        "units": {
-          "10ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping.",
-        "added_by": "MCS Auto",
-        "timestamp": "02/10/2026 15:06"
       }
     ],
     "2026-09-28": [
@@ -17865,6 +17848,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Hardy Field Lane, off St.Anns Road North, Heald Green, Cheadle, Stockport, SK8 3SH | Return date moved by MCS Auto from 10/09/2026 to 06/10/2026 on 02/10/2026 12:00",
         "added_by": "MCS Auto",
         "timestamp": "02/10/2026 12:00",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Cheltenham Green Property Ltd",
+        "postcode": "",
+        "contract_number": "0000032066",
+        "units": {
+          "10ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 02/10/2026 to 06/10/2026 on 05/10/2026 15:51",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 15:51",
         "date_moved_by": "MCS Auto"
       }
     ],
