@@ -18572,6 +18572,25 @@
         "added_by": "Peter",
         "timestamp": "05/10/2026 09:47"
       }
+    ],
+    "2026-10-15": [
+      {
+        "type": "Off Hire",
+        "customer": "MBC Building Contractors NW Ltd",
+        "postcode": "WF12 8QT",
+        "contract_number": "0000032022",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: PRINCESS ROAD, CHICKENLEY, DEWSBURY, , WF12 8QT | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "added_by": "MCS Auto",
+        "timestamp": "05/10/2026 13:51"
+      }
     ]
   },
   "mcs": {
