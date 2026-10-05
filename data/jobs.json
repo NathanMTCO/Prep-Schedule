@@ -19226,34 +19226,6 @@
         "asked_at": "26/08/2026 10:14"
       }
     },
-    "415079b52ee5": {
-      "requester": "Carl",
-      "request_id": "cc4d5c18ce04",
-      "item": "8 \u00d7 Lucas 12v leisure battery LSLC140-12 140AH",
-      "category": "Anything Else",
-      "item_name": "Lucas 12v leisure battery LSLC140-12 140AH",
-      "quantity": 8,
-      "notes": "Boss cabin batteries.",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "28/08/2026 12:20",
-      "query": {
-        "candidate_code": "795238",
-        "candidate_name": "Smoke Detector 9v Battery",
-        "candidate_price": 6.2,
-        "score": 0.12,
-        "mismatch": "the request is for a 'batterie' and the product name does not mention one",
-        "invoice_says": "note: we have bought 'lucas 12v 140ah agm cyclic un 2800 battery' before, from Veloris - The Battery Partner UK Ltd, and that is a closer match to the request than this. Worth a look before approving",
-        "asked_at": "28/08/2026 13:23"
-      },
-      "query_answer": "no",
-      "query_answered_at": "28/08/2026 12:26",
-      "po_number": "02029",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27834275",
-      "po_order_id": 27834275,
-      "po_status": "awaiting"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
