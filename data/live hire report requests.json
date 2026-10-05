@@ -1,15 +1,18 @@
 {
-  "requests": [
+  "requests": [],
+  "history": [
     {
       "id": "973c72e2b8",
       "customer": "HSSH001",
       "requested_by": "Pete Billingham",
       "requested_at": "05/10/2026 10:11",
-      "status": "running",
-      "detail": "Being processed by the worker",
+      "status": "done",
+      "detail": "Emailed to peter.billingham@kensite.co.uk",
       "claimed_at": "05/10/2026 11:16",
-      "claimed_by": "237f9fa4"
+      "matched_customer": "Proservice Building Services Marketplace Plc - HSSH001",
+      "match_confidence": 1.0,
+      "match_exact": true,
+      "processed_at": "05/10/2026 11:17"
     }
-  ],
-  "history": []
+  ]
 }
