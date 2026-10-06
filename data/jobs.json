@@ -18116,6 +18116,21 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 16FT Towable Reactive Welfare",
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 14:31"
+      },
+      {
+        "type": "On Hire",
+        "customer": "DLP Services (Northern) Ltd",
+        "postcode": "",
+        "contract_number": "0000032079",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 16ft solar welfare",
+        "added_by": "MCS Auto",
+        "timestamp": "06/10/2026 09:31"
       }
     ],
     "2026-10-09": [
@@ -18640,6 +18655,25 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: PRINCESS ROAD, CHICKENLEY, DEWSBURY, , WF12 8QT | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 13:51"
+      }
+    ],
+    "2026-10-27": [
+      {
+        "type": "Off Hire",
+        "customer": "Winstanley Plumbing & Heating",
+        "postcode": "WA2 0QJ",
+        "contract_number": "0000031660",
+        "units": {
+          "10ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Christchurch c of e school, Station Road, Warrington, , WA2 0QJ",
+        "added_by": "MCS Auto",
+        "timestamp": "06/10/2026 09:31"
       }
     ]
   },
