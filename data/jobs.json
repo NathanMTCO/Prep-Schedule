@@ -18529,6 +18529,23 @@
         "added_by": "MCS Auto",
         "timestamp": "06/10/2026 12:01",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "DM Construction",
+        "postcode": "",
+        "contract_number": "0000032082",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "06/10/2026 13:11"
       }
     ],
     "2026-10-13": [
