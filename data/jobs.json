@@ -17967,6 +17967,31 @@
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 10:00",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Think Hire",
+        "postcode": "",
+        "contract_number": "0000032083",
+        "units": {
+          "32ft AV": 2,
+          "2+1": 1,
+          "Tank": 1,
+          "Steps": 2
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "06/10/2026 13:51",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 2
+          }
+        }
       }
     ],
     "2026-10-05": [
