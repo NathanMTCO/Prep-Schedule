@@ -18507,6 +18507,24 @@
             "Meeting Room": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "PAS (NW) Ltd",
+        "postcode": "",
+        "contract_number": "0000032070",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill | Date moved by MCS Auto from 13/10/2026 to 19/10/2026 on 07/10/2026 12:20",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 12:20",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-07": [
@@ -18720,23 +18738,6 @@
         "added_by": "MCS Auto",
         "timestamp": "30/09/2026 15:22",
         "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
-        "customer": "PAS (NW) Ltd",
-        "postcode": "",
-        "contract_number": "0000032070",
-        "units": {
-          "Mobile Welfare": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
-        "added_by": "MCS Auto",
-        "timestamp": "05/10/2026 09:31"
       }
     ],
     "2026-10-16": [
