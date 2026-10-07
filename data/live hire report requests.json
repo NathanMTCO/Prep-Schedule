@@ -1,4 +1,13 @@
 {
-  "requests": [],
+  "requests": [
+    {
+      "id": "4cbb0a5d6e",
+      "customer": "H H Smith",
+      "requested_by": "Mitch Garnett",
+      "requested_at": "07/10/2026 11:59",
+      "status": "pending",
+      "detail": ""
+    }
+  ],
   "history": []
 }
