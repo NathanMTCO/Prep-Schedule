@@ -18017,34 +18017,6 @@
             "Canteen": 1
           }
         }
-      },
-      {
-        "type": "On Hire",
-        "customer": "Manchester and Cheshire construction Company Ltd",
-        "postcode": "",
-        "contract_number": "0000032094",
-        "units": {
-          "24ft AV": 2,
-          "2+1": 1,
-          "Tank": 1,
-          "Steps": 2,
-          "IBC": 1,
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10",
-        "added_by": "MCS Auto",
-        "timestamp": "07/10/2026 14:20",
-        "av_configs": {
-          "24ft AV": {
-            "Office": 1,
-            "Canteen": 1
-          }
-        }
       }
     ],
     "2026-10-05": [
@@ -18943,6 +18915,35 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: PRINCESS ROAD, CHICKENLEY, DEWSBURY, , WF12 8QT | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 13:51"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Manchester and Cheshire construction Company Ltd",
+        "postcode": "",
+        "contract_number": "0000032094",
+        "units": {
+          "24ft AV": 2,
+          "2+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1,
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10 | Date moved by MCS Auto from 12/10/2026 to 15/10/2026 on 07/10/2026 15:40",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 15:40",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        },
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-27": [
