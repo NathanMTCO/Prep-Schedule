@@ -18525,6 +18525,21 @@
         "added_by": "MCS Auto",
         "timestamp": "07/10/2026 12:20",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Artium Construction Limited",
+        "postcode": "",
+        "contract_number": "0000032093",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 8x Single Rapidpad foundation - 660x990x250mm +-50mm with 600x9; 2x Stair Tread Extension 200mm high 660x990; 4x Landing Pole supports 330x330x300-600mm high; 1x Dismantle and collection of Pad foundations; 1x Weekly Hire all in cost",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 13:10"
       }
     ],
     "2026-10-07": [
