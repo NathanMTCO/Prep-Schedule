@@ -17720,23 +17720,6 @@
             "Canteen": 1
           }
         }
-      },
-      {
-        "type": "Off Hire",
-        "customer": "MCI Developments Ltd",
-        "postcode": "BL3 4JJ",
-        "contract_number": "0000031970",
-        "units": {
-          "Mobile Welfare": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Eldercot Road, Bolton, , BL3 4JJ | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
-        "added_by": "MCS Auto",
-        "timestamp": "28/09/2026 11:14"
       }
     ],
     "2026-10-06": [
@@ -18540,6 +18523,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 8x Single Rapidpad foundation - 660x990x250mm +-50mm with 600x9; 2x Stair Tread Extension 200mm high 660x990; 4x Landing Pole supports 330x330x300-600mm high; 1x Dismantle and collection of Pad foundations; 1x Weekly Hire all in cost",
         "added_by": "MCS Auto",
         "timestamp": "07/10/2026 13:10"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "BL3 4JJ",
+        "contract_number": "0000031970",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Eldercot Road, Bolton, , BL3 4JJ | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill | Return date moved by MCS Auto from 01/10/2026 to 19/10/2026 on 07/10/2026 16:00",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 16:00",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-07": [
