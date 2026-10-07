@@ -1,15 +1,18 @@
 {
-  "requests": [
+  "requests": [],
+  "history": [
     {
       "id": "4cbb0a5d6e",
       "customer": "H H Smith",
       "requested_by": "Mitch Garnett",
       "requested_at": "07/10/2026 11:59",
-      "status": "running",
-      "detail": "Being processed by the worker",
+      "status": "done",
+      "detail": "Emailed to mitch.garnett@kensite.co.uk",
       "claimed_at": "07/10/2026 13:04",
-      "claimed_by": "08da460f"
+      "matched_customer": "H H Smith & Sons  Co Ltd - HHSMI001",
+      "match_confidence": 1.0,
+      "match_exact": true,
+      "processed_at": "07/10/2026 13:04"
     }
-  ],
-  "history": []
+  ]
 }
