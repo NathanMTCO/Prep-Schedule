@@ -18756,6 +18756,34 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Moor Lane, Menston, Ilkley, , LS29 6AR | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
         "added_by": "MCS Auto",
         "timestamp": "01/10/2026 10:29"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Just Welfare",
+        "postcode": "",
+        "contract_number": "0000032090",
+        "units": {
+          "32ft AV": 3,
+          "4+2": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x White Board; 10x Locker; 1x Pump; 1x 10ft COSHH Store; 4x 4 UNITS PAINTED FIR GREEN - 70/30",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 11:00",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1,
+            "Drying Room": 1,
+            "Canteen": 1
+          }
+        }
       }
     ],
     "2026-10-20": [
