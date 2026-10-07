@@ -1,16 +1,5 @@
 {
-  "requests": [
-    {
-      "id": "8b1930b4ee",
-      "customer": "pas",
-      "requested_by": "Mitch Garnett",
-      "requested_at": "07/10/2026 12:09",
-      "status": "running",
-      "detail": "Being processed by the worker",
-      "claimed_at": "07/10/2026 13:11",
-      "claimed_by": "000dec3a"
-    }
-  ],
+  "requests": [],
   "history": [
     {
       "id": "4cbb0a5d6e",
@@ -24,6 +13,19 @@
       "match_confidence": 1.0,
       "match_exact": true,
       "processed_at": "07/10/2026 13:04"
+    },
+    {
+      "id": "8b1930b4ee",
+      "customer": "pas",
+      "requested_by": "Mitch Garnett",
+      "requested_at": "07/10/2026 12:09",
+      "status": "done",
+      "detail": "Emailed to mitch.garnett@kensite.co.uk",
+      "claimed_at": "07/10/2026 13:11",
+      "matched_customer": "PAS (NW) Ltd - PASNW001",
+      "match_confidence": 1.0,
+      "match_exact": true,
+      "processed_at": "07/10/2026 13:11"
     }
   ]
 }
