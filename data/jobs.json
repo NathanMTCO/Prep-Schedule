@@ -17992,6 +17992,31 @@
             "Office": 2
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Greenmount Projects Ltd",
+        "postcode": "",
+        "contract_number": "0000032089",
+        "units": {
+          "24ft AV": 2,
+          "2+1": 1,
+          "20ft Store": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Disposable Sanitary Bins. Pk10",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 09:31",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
       }
     ],
     "2026-10-05": [
@@ -18377,6 +18402,23 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "06/10/2026 15:41"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Farmer Bertie's Ltd",
+        "postcode": "",
+        "contract_number": "0000032087",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 4x Event Toilet",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 09:31"
       }
     ],
     "2026-10-19": [
@@ -18605,6 +18647,24 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "06/10/2026 13:11"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A J Field Electrical & Mechanical",
+        "postcode": "BB5 1ER",
+        "contract_number": "0000030993",
+        "units": {
+          "20ft Store": 2,
+          "20ft AV": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: PEEL STREET, Accrington, , BB5 1ER | Also on contract: 1x Staircase; 1x Double Stack/ Erect Staircase; 1x Destack",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 09:31"
       }
     ],
     "2026-10-13": [
@@ -18796,6 +18856,25 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Christchurch c of e school, Station Road, Warrington, , WA2 0QJ",
         "added_by": "MCS Auto",
         "timestamp": "06/10/2026 09:31"
+      }
+    ],
+    "2026-10-14": [
+      {
+        "type": "On Hire",
+        "customer": "Harrock Sporting Club Ltd",
+        "postcode": "",
+        "contract_number": "0000032088",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "07/10/2026 09:31"
       }
     ]
   },
