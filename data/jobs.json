@@ -17858,38 +17858,6 @@
     "2026-10-12": [
       {
         "type": "On Hire",
-        "customer": "F Parkinson Ltd",
-        "postcode": "",
-        "contract_number": "0000031643",
-        "units": {
-          "24ft AV": 2,
-          "32ft AV": 1,
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 17/08/2026 to 25/09/2026 on 04/09/2026 09:31",
-        "added_by": "MCS Auto",
-        "timestamp": "04/09/2026 09:31",
-        "av_configs": {
-          "24ft AV": {
-            "Office": 1,
-            "Canteen": 1
-          },
-          "32ft AV": {
-            "Drying Room": 1
-          }
-        },
-        "date_moved_by": "MCS Auto",
-        "moved_by": "\u2014",
-        "moved_from": "2026-09-25",
-        "edited_at": "17/09/2026 11:25"
-      },
-      {
-        "type": "On Hire",
         "customer": "Bellway Homes North West Division",
         "postcode": "",
         "contract_number": "0000032056",
@@ -19031,6 +18999,40 @@
             "Canteen": 1
           }
         }
+      }
+    ],
+    "2026-10-30": [
+      {
+        "type": "On Hire",
+        "customer": "F Parkinson Ltd",
+        "postcode": "",
+        "contract_number": "0000031643",
+        "units": {
+          "24ft AV": 2,
+          "32ft AV": 1,
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 17/08/2026 to 25/09/2026 on 04/09/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "04/09/2026 09:31",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          },
+          "32ft AV": {
+            "Drying Room": 1
+          }
+        },
+        "date_moved_by": "MCS Auto",
+        "moved_by": "\u2014",
+        "moved_from": "2026-10-12",
+        "edited_at": "08/10/2026 09:42"
       }
     ]
   },
