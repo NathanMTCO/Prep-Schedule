@@ -18125,33 +18125,6 @@
       },
       {
         "type": "On Hire",
-        "customer": "P Hughes Construction Ltd",
-        "postcode": "",
-        "contract_number": "0000032080",
-        "units": {
-          "24ft AV": 2,
-          "2+1": 1,
-          "Tank": 1,
-          "Steps": 2,
-          "IBC": 1
-        },
-        "haulage": "External Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10",
-        "added_by": "MCS Auto",
-        "timestamp": "06/10/2026 10:11",
-        "av_configs": {
-          "24ft AV": {
-            "Office": 1,
-            "Canteen": 1
-          }
-        }
-      },
-      {
-        "type": "On Hire",
         "customer": "CBG Construction Ltd",
         "postcode": "",
         "contract_number": "0000032085",
@@ -18461,6 +18434,34 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 16FT Towable Reactive Welfare | Date moved by MCS Auto from 08/10/2026 to 09/10/2026 on 08/10/2026 12:20",
         "added_by": "MCS Auto",
         "timestamp": "08/10/2026 12:20",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "P Hughes Construction Ltd",
+        "postcode": "",
+        "contract_number": "0000032080",
+        "units": {
+          "24ft AV": 2,
+          "2+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10 | Date moved by MCS Auto from 08/10/2026 to 09/10/2026 on 08/10/2026 16:00",
+        "added_by": "MCS Auto",
+        "timestamp": "08/10/2026 16:00",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        },
         "date_moved_by": "MCS Auto"
       }
     ],
