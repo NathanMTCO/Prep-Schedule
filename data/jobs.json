@@ -17985,23 +17985,6 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "08/10/2026 11:40"
-      },
-      {
-        "type": "On Hire",
-        "customer": "Alpine Hire Ltd",
-        "postcode": "",
-        "contract_number": "0000032103",
-        "units": {
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping.",
-        "added_by": "MCS Auto",
-        "timestamp": "08/10/2026 14:00"
       }
     ],
     "2026-10-05": [
@@ -18943,6 +18926,24 @@
         "notes": "collection of unit 8413 is booked for 16/10\ncollection of unit 8409 is booked for 26/10 as per customer reuqest.",
         "added_by": "Peter",
         "timestamp": "05/10/2026 09:47"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Alpine Hire Ltd",
+        "postcode": "",
+        "contract_number": "0000032103",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 12/10/2026 to 26/10/2026 on 08/10/2026 15:10",
+        "added_by": "MCS Auto",
+        "timestamp": "08/10/2026 15:10",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-15": [
