@@ -18460,6 +18460,22 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "",
+        "contract_number": "0000032081",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 2x 32amp 230v 20mtr Plug | Date moved by MCS Auto from 07/10/2026 to 09/10/2026 on 08/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "08/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-19": [
@@ -18691,21 +18707,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Bellway Homes Croft, Deacon Close, Warrington, , WA2 7EN",
         "added_by": "MCS Auto",
         "timestamp": "05/10/2026 14:31"
-      },
-      {
-        "type": "On Hire",
-        "customer": "A Connolly Limited",
-        "postcode": "",
-        "contract_number": "0000032081",
-        "units": {},
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 2x 32amp 230v 20mtr Plug",
-        "added_by": "MCS Auto",
-        "timestamp": "06/10/2026 11:41"
       },
       {
         "type": "On Hire",
