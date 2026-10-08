@@ -33,8 +33,9 @@
       ],
       "cc_email": "",
       "requested_at": "08/10/2026 13:18",
-      "status": "pending",
-      "detail": ""
+      "status": "sending",
+      "detail": "Being processed by the worker",
+      "processed_at": "08/10/2026 14:19"
     }
   ]
 }
