@@ -19884,33 +19884,6 @@
       "po_order_id": 27784795,
       "po_status": "awaiting"
     },
-    "b56f3b47a4f9": {
-      "requester": "Carl",
-      "request_id": "81c395a8ae04",
-      "item": "1 \u00d7 Anti freeze",
-      "category": "Anything Else",
-      "item_name": "Anti freeze",
-      "quantity": 1,
-      "notes": "Water tanks in solar cabins",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "25/08/2026 12:04",
-      "query": {
-        "candidate_code": "602533",
-        "candidate_name": "Sanispeed+ Waste Water Pump",
-        "candidate_price": 537.59,
-        "score": 0.17,
-        "mismatch": "the request is for a 'cabin' and the product name does not mention one",
-        "asked_at": "25/08/2026 13:07"
-      },
-      "query_answer": "no",
-      "query_answered_at": "25/08/2026 13:25",
-      "po_number": "02026",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27784874",
-      "po_order_id": 27784874,
-      "po_status": "awaiting"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
