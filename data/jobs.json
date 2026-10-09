@@ -19830,33 +19830,6 @@
       "po_order_id": 27762870,
       "po_status": "awaiting"
     },
-    "c5e9e5f1e840": {
-      "requester": "Alex",
-      "request_id": "5d53b1f9e533",
-      "item": "3 \u00d7 Pentair 12V Water pump (model number - 2095-403-143)",
-      "category": "Anything Else",
-      "item_name": "Pentair 12V Water pump (model number - 2095-403-143)",
-      "quantity": 3,
-      "notes": "For Solar Cabins",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "25/08/2026 05:47",
-      "query": {
-        "candidate_code": "602065",
-        "candidate_name": "Stuart Turner Brass Pump Body For Boostmatic Pump",
-        "candidate_price": 45.0,
-        "score": 0.31,
-        "mismatch": "the request is for a 'cabin' and the product name does not mention one",
-        "asked_at": "25/08/2026 08:24"
-      },
-      "query_answer": "no",
-      "query_answered_at": "25/08/2026 13:26",
-      "po_number": "02024",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27784583",
-      "po_order_id": 27784583,
-      "po_status": "awaiting"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
