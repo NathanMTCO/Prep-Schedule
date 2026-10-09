@@ -19900,26 +19900,6 @@
       "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27969595",
       "po_order_id": 27969595,
       "po_status": "awaiting"
-    },
-    "366ff1cbf749": {
-      "requester": "Keaton",
-      "request_id": "c5b6211d2387",
-      "item": "1 \u00d7 12-290-125 QTECH part code for spray gun ASAP",
-      "category": "Anything Else",
-      "item_name": "12-290-125 QTECH part code for spray gun ASAP",
-      "quantity": 1,
-      "notes": "12-290-125 QTECH part code for spray gun ASAP",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "22/09/2026 13:08",
-      "query": {
-        "candidate_code": "553105",
-        "candidate_name": "40 x 12 H-Section Lid White 3.05 Mtr HS062",
-        "candidate_price": 1.83,
-        "score": 0.22,
-        "mismatch": "the request is for a 'asap' and the product name does not mention one",
-        "asked_at": "22/09/2026 14:10"
-      }
     }
   },
   "materials_totals": {
