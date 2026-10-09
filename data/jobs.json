@@ -19646,22 +19646,24 @@
     ]
   },
   "materials": {
-    "2e7eb497b3dc": {
-      "requester": "Jim",
-      "request_id": "fed7e9657d1b",
-      "item": "6 \u00d7 Worktops",
+    "6259fa0c520b": {
+      "requester": "Cliff",
+      "request_id": "151c5f69d744",
+      "item": "50 \u00d7 3x2 CLS Timber",
       "category": "Timber & Sheet Materials",
-      "item_name": "Worktops",
-      "quantity": 6,
+      "item_name": "3x2 CLS Timber",
+      "quantity": 50,
       "notes": "",
       "supplier": "",
-      "status": "pending",
-      "created_at": "02/09/2026 13:40",
-      "po_number": "02037",
+      "status": "ordered",
+      "created_at": "17/08/2026 12:25",
+      "po_number": "01990",
       "po_supplier": "Bolton Builders Merchants",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27897074",
-      "po_order_id": 27897074,
-      "po_status": "awaiting"
+      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27670581",
+      "po_order_id": 27670581,
+      "po_status": "approved",
+      "ordered_by": "Ken",
+      "ordered_at": "17/08/2026 15:30"
     },
     "9f98e4ad1e09": {
       "requester": "Mitch",
