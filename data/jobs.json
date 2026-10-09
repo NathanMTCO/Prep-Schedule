@@ -19665,25 +19665,6 @@
       "ordered_by": "Ken",
       "ordered_at": "17/08/2026 15:30"
     },
-    "b66126eb0854": {
-      "requester": "Alex",
-      "request_id": "bfa7add0c691",
-      "item": "5 \u00d7 Hyco Accona 2kW Panel Heater c/w 7 Day Digital Timer",
-      "category": "Water Heating",
-      "item_name": "Hyco Accona 2kW Panel Heater c/w 7 Day Digital Timer",
-      "quantity": 5,
-      "notes": "",
-      "supplier": "",
-      "status": "ordered",
-      "created_at": "17/08/2026 12:29",
-      "po_number": "01991",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27670770",
-      "po_order_id": 27670770,
-      "po_status": "approved",
-      "ordered_by": "Ken",
-      "ordered_at": "17/08/2026 14:00"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
