@@ -18062,21 +18062,6 @@
         "timestamp": "22/09/2026 09:32"
       },
       {
-        "type": "On Hire",
-        "customer": "MCI Developments Ltd",
-        "postcode": "",
-        "contract_number": "0000032064",
-        "units": {},
-        "haulage": "External Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x ReHire Welfare Unit",
-        "added_by": "MCS Auto",
-        "timestamp": "02/10/2026 09:50"
-      },
-      {
         "type": "Off Hire",
         "customer": "Aspire Construction Projects Ltd",
         "postcode": "WA3 3JD",
@@ -18328,25 +18313,6 @@
       },
       {
         "type": "On Hire",
-        "customer": "Ainscough Environmental Services Ltd",
-        "postcode": "",
-        "contract_number": "0000031532",
-        "units": {
-          "32ft AV": 18,
-          "24ft AV": 2
-        },
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 10/09/2026 to 30/09/2026 on 09/09/2026 09:31 | Date moved by MCS Auto from 30/09/2026 to 09/10/2026 on 01/10/2026 13:38",
-        "added_by": "MCS Auto",
-        "timestamp": "01/10/2026 13:38",
-        "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
         "customer": "Peak Platforms Ltd",
         "postcode": "",
         "contract_number": "0000032086",
@@ -18462,6 +18428,22 @@
             "Canteen": 1
           }
         },
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "",
+        "contract_number": "0000032064",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x ReHire Welfare Unit | Date moved by MCS Auto from 08/10/2026 to 09/10/2026 on 09/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "09/10/2026 09:31",
         "date_moved_by": "MCS Auto"
       }
     ],
@@ -19111,6 +19093,25 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Ainscough Environmental Services Ltd",
+        "postcode": "",
+        "contract_number": "0000031532",
+        "units": {
+          "32ft AV": 18,
+          "24ft AV": 2
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 10/09/2026 to 30/09/2026 on 09/09/2026 09:31 | Date moved by MCS Auto from 30/09/2026 to 09/10/2026 on 01/10/2026 13:38 | Date moved by MCS Auto from 09/10/2026 to 30/10/2026 on 09/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "09/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ]
   },
