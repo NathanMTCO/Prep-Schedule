@@ -19684,33 +19684,6 @@
       "ordered_by": "Ken",
       "ordered_at": "17/08/2026 14:00"
     },
-    "64f66b5da351": {
-      "requester": "Alex",
-      "request_id": "ba6176d125f7",
-      "item": "1 \u00d7 Wera interchangeable PZ1 x 154mm Kraftform Kompakt VDE blade",
-      "category": "Anything Else",
-      "item_name": "Wera interchangeable PZ1 x 154mm Kraftform Kompakt VDE blade",
-      "quantity": 1,
-      "notes": "Only need the PZ1 head for my screwdriver as i already have the handle and my original PZ1 head snapped",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "18/08/2026 13:20",
-      "query": {
-        "candidate_code": "350411",
-        "candidate_name": "25mm x 16mm Internal Corner For Mini Trunking",
-        "candidate_price": 0.56,
-        "score": 0.12,
-        "mismatch": "the request says 154mm and the product says 16, 25mm",
-        "asked_at": "18/08/2026 14:20"
-      },
-      "query_answer": "no",
-      "query_answered_at": "18/08/2026 13:22",
-      "po_number": "01992",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27690530",
-      "po_order_id": 27690530,
-      "po_status": "awaiting"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
