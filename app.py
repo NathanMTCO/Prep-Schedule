@@ -1740,19 +1740,23 @@ def gh_put(path, obj, sha=None, msg="Update schedule"):
     requests.put(url, headers=HEADERS, json=payload,
                  timeout=15).raise_for_status()
 
-@st.cache_data(ttl=10)
+@st.cache_data(ttl=30)
 def load_request_file(path):
     """Cached read of a request-queue file: one GitHub call per file per
-    10s across every rerun and session, instead of one per rerun. Writers
+    30s across every rerun and session, instead of one per rerun. Writers
     must call load_request_file.clear() after a successful gh_put so the
     change shows immediately.
 
-    The TTL matches the auto-refresh interval on purpose. Set it higher
-    than the refresh and the extra reruns just redraw stale data; set it
-    lower and every rerun pays for a GitHub call it did not need."""
+    09/10/2026: the TTL went from 10s to 30s. The whole NathanMTCO GitHub
+    account shares 5,000 calls an hour and ran out each hour on 09/10,
+    failing every automation that touches GitHub for the last minutes of
+    the hour. At 10s this app alone was 24 calls a minute (four files),
+    about 1,440 an hour; at 30s it is 480. The page still reruns every
+    10s, so a change made at this desk shows at once (the writer clears
+    the cache) and a change made elsewhere shows within 30s."""
     return gh_get(path)
 
-@st.cache_data(ttl=10)
+@st.cache_data(ttl=30)
 def load_data():
     data, sha = gh_get(DATA_FILE)
     if data is None:
