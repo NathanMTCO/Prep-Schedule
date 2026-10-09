@@ -19857,33 +19857,6 @@
       "po_order_id": 27784583,
       "po_status": "awaiting"
     },
-    "91aa1fc095bf": {
-      "requester": "Carl",
-      "request_id": "cf8a1f064e23",
-      "item": "5 \u00d7 de-ionised water 5L to 20L drums",
-      "category": "Anything Else",
-      "item_name": "de-ionised water 5L to 20L drums",
-      "quantity": 5,
-      "notes": "topping up battery levels",
-      "supplier": "",
-      "status": "pending",
-      "created_at": "25/08/2026 10:44",
-      "query": {
-        "candidate_code": "707937",
-        "candidate_name": "Special order \u2013 Up to 10 working days. This item can only be returned if faulty.",
-        "candidate_price": 294.0,
-        "score": 0.3,
-        "mismatch": "the request is for a 'level' and the product name does not mention one",
-        "asked_at": "25/08/2026 11:46"
-      },
-      "query_answer": "no",
-      "query_answered_at": "25/08/2026 13:25",
-      "po_number": "02025",
-      "po_supplier": "Danfast Ltd",
-      "po_link": "https://myzahara.net/v3/documents/purchase-orders/view/27784795",
-      "po_order_id": 27784795,
-      "po_status": "awaiting"
-    },
     "2e7eb497b3dc": {
       "requester": "Jim",
       "request_id": "fed7e9657d1b",
