@@ -18552,6 +18552,21 @@
         "added_by": "MCS Auto",
         "timestamp": "07/10/2026 16:00",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Parklands Services (NW)Ltd",
+        "postcode": "",
+        "contract_number": "0000032110",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Hot wash chemi loo 240V",
+        "added_by": "MCS Auto",
+        "timestamp": "12/10/2026 09:31"
       }
     ],
     "2026-10-07": [
@@ -19153,6 +19168,55 @@
         "added_by": "MCS Auto",
         "timestamp": "09/10/2026 09:31",
         "date_moved_by": "MCS Auto"
+      }
+    ],
+    "2026-11-02": [
+      {
+        "type": "On Hire",
+        "customer": "Almond Civils Ltd",
+        "postcode": "",
+        "contract_number": "0000032100",
+        "units": {
+          "20ft AV": 2,
+          "Stairs": 1,
+          "3+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack; 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10",
+        "added_by": "MCS Auto",
+        "timestamp": "12/10/2026 09:31",
+        "av_configs": {
+          "20ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
+      }
+    ],
+    "2026-10-31": [
+      {
+        "type": "Off Hire",
+        "customer": "Manchester and Cheshire",
+        "postcode": "SK12 1NW",
+        "contract_number": "0000031285",
+        "units": {
+          "4+2": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Vernon Primary School, Clumber Road, Poynton, Cheshire East, SK12 1NW",
+        "added_by": "MCS Auto",
+        "timestamp": "12/10/2026 09:31"
       }
     ]
   },
