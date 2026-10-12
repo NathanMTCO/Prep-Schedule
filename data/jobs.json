@@ -17970,6 +17970,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack",
         "added_by": "MCS Auto",
         "timestamp": "12/10/2026 09:40"
+      },
+      {
+        "type": "On Hire",
+        "customer": "P Hughes Construction Ltd",
+        "postcode": "",
+        "contract_number": "0000032112",
+        "units": {
+          "Generator": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Extension Leads",
+        "added_by": "MCS Auto",
+        "timestamp": "12/10/2026 14:40"
       }
     ],
     "2026-10-05": [
