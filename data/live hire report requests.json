@@ -7,6 +7,14 @@
       "requested_at": "12/10/2026 09:36",
       "status": "pending",
       "detail": ""
+    },
+    {
+      "id": "80037b6a9e",
+      "customer": "HHSMI001",
+      "requested_by": "Pete Billingham",
+      "requested_at": "12/10/2026 10:08",
+      "status": "pending",
+      "detail": ""
     }
   ],
   "history": []
