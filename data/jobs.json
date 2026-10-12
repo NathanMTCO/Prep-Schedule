@@ -12836,21 +12836,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: 86A Bolton Road, Ashton-in-Makerfield, , WN4 8PF",
         "added_by": "MCS Auto",
         "timestamp": "07/08/2026 11:42"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "Morris Homes (North) Ltd",
-        "postcode": "L37 6BR",
-        "contract_number": "0000031061",
-        "units": {},
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: The Grange, Liverpool Road, Formby, , L37 6BR | Also on contract: 1x 1000G Eflluent Tank; 1x Chargeable Weekly Tank Empty; 1x Chargeable One Off Tank Empty - same day service; 1x Chargeable Fortnightly Tank Empty",
-        "added_by": "MCS Auto",
-        "timestamp": "07/08/2026 11:42"
       }
     ],
     "2026-08-13": [
@@ -19217,6 +19202,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Vernon Primary School, Clumber Road, Poynton, Cheshire East, SK12 1NW",
         "added_by": "MCS Auto",
         "timestamp": "12/10/2026 09:31"
+      }
+    ],
+    "2026-10-23": [
+      {
+        "type": "Off Hire",
+        "customer": "Morris Homes (North) Ltd",
+        "postcode": "L37 6BR",
+        "contract_number": "0000031061",
+        "units": {},
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: The Grange, Liverpool Road, Formby, , L37 6BR | Also on contract: 1x 1000G Eflluent Tank; 1x Chargeable Weekly Tank Empty; 1x Chargeable One Off Tank Empty - same day service; 1x Chargeable Fortnightly Tank Empty | Return date moved by MCS Auto from 07/08/2026 to 23/10/2026 on 12/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "12/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ]
   },
