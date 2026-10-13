@@ -19132,6 +19132,21 @@
           }
         },
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "DLP Services (Northern) Ltd",
+        "postcode": "",
+        "contract_number": "0000032119",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 4 way Dist. Board; 1x 415v Whip Lead - FOC; 1x 32amp 230v Plug",
+        "added_by": "MCS Auto",
+        "timestamp": "13/10/2026 16:41"
       }
     ],
     "2026-10-27": [
