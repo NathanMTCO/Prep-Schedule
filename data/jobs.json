@@ -18949,6 +18949,29 @@
             "Office": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Kenny Waste Managment",
+        "postcode": "",
+        "contract_number": "0000032116",
+        "units": {
+          "32ft AV": 1,
+          "Stairs": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack",
+        "added_by": "MCS Auto",
+        "timestamp": "13/10/2026 15:00",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1
+          }
+        }
       }
     ],
     "2026-10-26": [
