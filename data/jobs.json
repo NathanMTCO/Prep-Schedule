@@ -19147,6 +19147,36 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 4 way Dist. Board; 1x 415v Whip Lead - FOC; 1x 32amp 230v Plug",
         "added_by": "MCS Auto",
         "timestamp": "13/10/2026 16:41"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MWH Treatment",
+        "postcode": "",
+        "contract_number": "0000032122",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Draw unit; 2x door closer; 4x Fitter Labour for Repair",
+        "added_by": "MCS Auto",
+        "timestamp": "14/10/2026 10:11"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MWH Treatment",
+        "postcode": "",
+        "contract_number": "0000032121",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 5x Upholstered Chair; 1x Mini Filing Cabinet",
+        "added_by": "MCS Auto",
+        "timestamp": "14/10/2026 10:11"
       }
     ],
     "2026-10-27": [
