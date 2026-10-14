@@ -19490,6 +19490,37 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "13/10/2026 13:30"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Think Hire",
+        "postcode": "",
+        "contract_number": "0000032126",
+        "units": {
+          "32ft AV": 2,
+          "20ft AV": 2,
+          "3+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Bookshelf; 10x Mesh locker for the dry room; 4x Floodlight",
+        "added_by": "MCS Auto",
+        "timestamp": "14/10/2026 15:41",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          },
+          "20ft AV": {
+            "Drying Room": 1
+          }
+        }
       }
     ],
     "2026-10-22": [
