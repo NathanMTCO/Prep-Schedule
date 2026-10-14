@@ -19388,6 +19388,36 @@
         "added_by": "MCS Auto",
         "timestamp": "13/10/2026 13:30"
       }
+    ],
+    "2026-10-22": [
+      {
+        "type": "On Hire",
+        "customer": "F Parkinson Ltd",
+        "postcode": "",
+        "contract_number": "0000032120",
+        "units": {
+          "20ft AV": 2,
+          "2+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1,
+          "10ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill",
+        "added_by": "MCS Auto",
+        "timestamp": "14/10/2026 09:31",
+        "av_configs": {
+          "20ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
+      }
     ]
   },
   "mcs": {
