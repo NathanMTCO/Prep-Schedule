@@ -19218,6 +19218,21 @@
             "Office": 2
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "John Reilly Civil Engineering Ltd",
+        "postcode": "",
+        "contract_number": "0000032125",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 2x Filing Cabinet",
+        "added_by": "MCS Auto",
+        "timestamp": "14/10/2026 15:11"
       }
     ],
     "2026-10-27": [
