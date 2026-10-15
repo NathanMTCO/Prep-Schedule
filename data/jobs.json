@@ -18541,6 +18541,22 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "13/10/2026 15:21"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MWH Treatment",
+        "postcode": "",
+        "contract_number": "0000032122",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Draw unit; 2x door closer; 4x Fitter Labour for Repair | Date moved by MCS Auto from 15/10/2026 to 19/10/2026 on 15/10/2026 10:35",
+        "added_by": "MCS Auto",
+        "timestamp": "15/10/2026 10:35",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-07": [
@@ -19147,21 +19163,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 4 way Dist. Board; 1x 415v Whip Lead - FOC; 1x 32amp 230v Plug",
         "added_by": "MCS Auto",
         "timestamp": "13/10/2026 16:41"
-      },
-      {
-        "type": "On Hire",
-        "customer": "MWH Treatment",
-        "postcode": "",
-        "contract_number": "0000032122",
-        "units": {},
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Draw unit; 2x door closer; 4x Fitter Labour for Repair",
-        "added_by": "MCS Auto",
-        "timestamp": "14/10/2026 10:11"
       },
       {
         "type": "On Hire",
