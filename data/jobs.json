@@ -18898,6 +18898,21 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Termrim Construction Ltd",
+        "postcode": "LS26 8EW",
+        "contract_number": "0000030793",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Sugar Hill Close & Wordsworth, Oulton, Leeds, , LS26 8EW | Also on contract: 5x Meeting Room Table; 1x Upholstered Chair; 3x Canteen Table; 1x Poly Chair; 4x moving stores on site; 2x Destack; 9x Upholstered Chair; 11x Poly Chair",
+        "added_by": "MCS Auto",
+        "timestamp": "15/10/2026 13:15"
       }
     ],
     "2026-10-20": [
