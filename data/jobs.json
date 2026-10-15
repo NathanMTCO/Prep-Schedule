@@ -19667,6 +19667,23 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "",
+        "contract_number": "0000032130",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Move to New Site",
+        "added_by": "MCS Auto",
+        "timestamp": "15/10/2026 14:45"
       }
     ],
     "2026-11-04": [
