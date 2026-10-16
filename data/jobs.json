@@ -19075,6 +19075,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill",
         "added_by": "MCS Auto",
         "timestamp": "16/10/2026 10:20"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Whitfield & Brown Developments Ltd",
+        "postcode": "M27 5UA",
+        "contract_number": "0000029621",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Unit 7 Rutland St, Swinton, Manchester, , M27 5UA",
+        "added_by": "MCS Auto",
+        "timestamp": "16/10/2026 11:50"
       }
     ],
     "2026-10-26": [
