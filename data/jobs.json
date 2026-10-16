@@ -19343,6 +19343,49 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Christchurch c of e school, Station Road, Warrington, , WA2 0QJ",
         "added_by": "MCS Auto",
         "timestamp": "06/10/2026 09:31"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Just Welfare",
+        "postcode": "OX14 4TA",
+        "contract_number": "0000031471",
+        "units": {
+          "32ft AV": 7,
+          "Steps": 4,
+          "20ft Store": 2,
+          "3+1": 2
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Loverose Way, Off A4130, Abingdon, , OX14 4TA | Also on contract: 1x Staircase; 1x 10ft Coshh Store; 1x Staircase",
+        "added_by": "MCS Auto",
+        "timestamp": "16/10/2026 14:41",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Just Welfare",
+        "postcode": "OX14 4TE",
+        "contract_number": "0000031527",
+        "units": {
+          "32ft AV": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: DG190 Didcot Quarter, Sutton Courtenay Road, Sutton Courteney, Abingdon, OX14 4TE | Also on contract: 1x Staircase",
+        "added_by": "MCS Auto",
+        "timestamp": "16/10/2026 14:41"
       }
     ],
     "2026-10-14": [
