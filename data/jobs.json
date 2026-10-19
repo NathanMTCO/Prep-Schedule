@@ -19685,6 +19685,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 80x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "15/10/2026 16:15"
+      },
+      {
+        "type": "On Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "",
+        "contract_number": "0000032143",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "added_by": "MCS Auto",
+        "timestamp": "19/10/2026 09:32"
       }
     ],
     "2026-10-21": [
@@ -19752,6 +19769,25 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "15/10/2026 10:06"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Silverglide Ltd",
+        "postcode": "",
+        "contract_number": "0000032142",
+        "units": {
+          "24ft AV": 1,
+          "2+1": 1,
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Weekly Water Fill; 1x Disposable Sanitary Bins. Pk10",
+        "added_by": "MCS Auto",
+        "timestamp": "19/10/2026 09:32"
       }
     ],
     "2026-10-22": [
