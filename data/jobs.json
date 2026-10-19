@@ -19938,6 +19938,40 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: John Wall Court Car Park Area, Clitheroe, , BB7 1DX | Also on contract: 80x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "19/10/2026 12:01"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Good Companions",
+        "postcode": "",
+        "contract_number": "0000032146",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "19/10/2026 13:31"
+      },
+      {
+        "type": "On Hire",
+        "customer": "DM Construction",
+        "postcode": "",
+        "contract_number": "0000032147",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "19/10/2026 13:31"
       }
     ],
     "2026-11-04": [
