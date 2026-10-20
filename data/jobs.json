@@ -20047,6 +20047,23 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "19/10/2026 13:31"
+      },
+      {
+        "type": "On Hire",
+        "customer": "DLP Services (Northern) Ltd",
+        "postcode": "",
+        "contract_number": "0000032148",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "20/10/2026 09:31"
       }
     ],
     "2026-11-04": [
