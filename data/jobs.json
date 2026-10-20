@@ -18532,23 +18532,6 @@
         "added_by": "MCS Auto",
         "timestamp": "15/10/2026 10:35",
         "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
-        "customer": "Mountain Earth Developments Ltd",
-        "postcode": "",
-        "contract_number": "0000032135",
-        "units": {
-          "Mobile Welfare": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill",
-        "added_by": "MCS Auto",
-        "timestamp": "16/10/2026 10:30"
       }
     ],
     "2026-10-07": [
@@ -19006,29 +18989,6 @@
       },
       {
         "type": "On Hire",
-        "customer": "Kenny Waste Managment",
-        "postcode": "",
-        "contract_number": "0000032116",
-        "units": {
-          "32ft AV": 1,
-          "Stairs": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack",
-        "added_by": "MCS Auto",
-        "timestamp": "13/10/2026 15:00",
-        "av_configs": {
-          "32ft AV": {
-            "Office": 1
-          }
-        }
-      },
-      {
-        "type": "On Hire",
         "customer": "Manchester and Cheshire construction Company Ltd",
         "postcode": "",
         "contract_number": "0000032094",
@@ -19126,6 +19086,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "19/10/2026 11:10"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Mountain Earth Developments Ltd",
+        "postcode": "",
+        "contract_number": "0000032135",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill | Date moved by MCS Auto from 19/10/2026 to 20/10/2026 on 20/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "20/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-26": [
@@ -19880,6 +19858,30 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Sandy Lane, Cottom, Preston, , PR4 0LH | Also on contract: 2x 32amp 230v 25mtr Plug | Return date moved by MCS Auto from 16/10/2026 to 21/10/2026 on 19/10/2026 09:32",
         "added_by": "MCS Auto",
         "timestamp": "19/10/2026 09:32",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Kenny Waste Managment",
+        "postcode": "",
+        "contract_number": "0000032116",
+        "units": {
+          "32ft AV": 1,
+          "Stairs": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack | Date moved by MCS Auto from 20/10/2026 to 21/10/2026 on 20/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "20/10/2026 09:31",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 1
+          }
+        },
         "date_moved_by": "MCS Auto"
       }
     ],
