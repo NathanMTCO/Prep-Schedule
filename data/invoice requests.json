@@ -8,8 +8,8 @@
       ],
       "cc_email": "",
       "requested_at": "13/10/2026 09:39",
-      "status": "pending",
-      "detail": ""
+      "status": "closed",
+      "detail": "Copy invoice requests from the Prep Schedule were retired on 09/10/2026. Email Ken (ken@kensite.co.uk) for invoice copies instead."
     },
     {
       "id": "f2d4817111",
@@ -19,8 +19,8 @@
       ],
       "cc_email": "",
       "requested_at": "14/10/2026 09:10",
-      "status": "pending",
-      "detail": ""
+      "status": "closed",
+      "detail": "Copy invoice requests from the Prep Schedule were retired on 09/10/2026. Email Ken (ken@kensite.co.uk) for invoice copies instead."
     },
     {
       "id": "f00e5eb576",
@@ -30,8 +30,8 @@
       ],
       "cc_email": "",
       "requested_at": "21/10/2026 08:38",
-      "status": "pending",
-      "detail": ""
+      "status": "closed",
+      "detail": "Copy invoice requests from the Prep Schedule were retired on 09/10/2026. Email Ken (ken@kensite.co.uk) for invoice copies instead."
     },
     {
       "id": "4d0a6b873f",
@@ -41,8 +41,8 @@
       ],
       "cc_email": "",
       "requested_at": "21/10/2026 09:37",
-      "status": "pending",
-      "detail": ""
+      "status": "closed",
+      "detail": "Copy invoice requests from the Prep Schedule were retired on 09/10/2026. Email Ken (ken@kensite.co.uk) for invoice copies instead."
     }
   ]
 }
