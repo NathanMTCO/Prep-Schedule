@@ -19309,6 +19309,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: DG190 Didcot Quarter, Sutton Courtenay Road, Sutton Courteney, Abingdon, OX14 4TE | Also on contract: 1x Staircase",
         "added_by": "MCS Auto",
         "timestamp": "16/10/2026 14:41"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Just Welfare",
+        "postcode": "",
+        "contract_number": "0000032163",
+        "units": {
+          "Tank": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "21/10/2026 14:20"
       }
     ],
     "2026-10-14": [
