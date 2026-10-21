@@ -20143,6 +20143,21 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: GRINSOME ROAD, INCE, , CH2 4LB | Also on contract: 10x 32amp PLUG; 1x 6WAY Dist Board; 1x 60KVA Battery Packs; 1x 2000L Fuel Tank; 2x 125 AMP three phase Ext Lead; 500x FUEL; 1x 125amp Three Phase EXT Lead; 2x 32amp Three Phase EXT Lead; 2x 10KVA Site Transformer; 1x 125 AMP Dist Board; 1x 1000L Bunded Fuel Tank; 250x FUEL; 4x 32amp 110V Ext Lead",
         "added_by": "MCS Auto",
         "timestamp": "21/10/2026 11:20"
+      },
+      {
+        "type": "On Hire",
+        "customer": "AIS Vanguard Ltd",
+        "postcode": "",
+        "contract_number": "0000032162",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 100kva Gen 125a/3 Outlet - 50hrs per week; 1x Battery 45/90kwh Unit c/w 1x 125a/3 5mtr Outlet; 1x 125a/3 5mtr Battery Charge Lead (Gen to Battery); 1x 60kva Gen c/w 2x 32a/3 Outlets - 50hrs per week",
+        "added_by": "MCS Auto",
+        "timestamp": "21/10/2026 11:30"
       }
     ],
     "2026-11-04": [
