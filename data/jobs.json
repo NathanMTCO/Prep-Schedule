@@ -18997,23 +18997,6 @@
         "timestamp": "16/10/2026 10:20"
       },
       {
-        "type": "Off Hire",
-        "customer": "Whitfield & Brown Developments Ltd",
-        "postcode": "M27 5UA",
-        "contract_number": "0000029621",
-        "units": {
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Unit 7 Rutland St, Swinton, Manchester, , M27 5UA",
-        "added_by": "MCS Auto",
-        "timestamp": "16/10/2026 11:50"
-      },
-      {
         "type": "On Hire",
         "customer": "Almond Civils Ltd",
         "postcode": "",
@@ -20124,6 +20107,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: 1 Tatton Road, Manchester, , M34 7PJ | Also on contract: 1x Weekly Water Fill; 1x One Off Water Fill additional one on 28.11.25",
         "added_by": "MCS Auto",
         "timestamp": "21/10/2026 09:31"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Whitfield & Brown Developments Ltd",
+        "postcode": "M27 5UA",
+        "contract_number": "0000029621",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Unit 7 Rutland St, Swinton, Manchester, , M27 5UA | Return date moved by MCS Auto from 20/10/2026 to 22/10/2026 on 21/10/2026 10:00",
+        "added_by": "MCS Auto",
+        "timestamp": "21/10/2026 10:00",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-11-04": [
