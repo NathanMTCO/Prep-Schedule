@@ -19187,6 +19187,21 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 3Way Dist Board; 3x Ext Lead 32AMP",
         "added_by": "MCS Auto",
         "timestamp": "22/10/2026 10:10"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Chandos Civil Engineering Ltd",
+        "postcode": "",
+        "contract_number": "0000032171",
+        "units": {},
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x heater",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 11:00"
       }
     ],
     "2026-10-15": [
