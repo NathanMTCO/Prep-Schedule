@@ -19125,6 +19125,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill",
         "added_by": "MCS Auto",
         "timestamp": "09/10/2026 13:41"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "BB5 3BJ",
+        "contract_number": "0000032061",
+        "units": {
+          "Mobile Welfare": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Rhyddings Mill, Oswaldtwistle, , BB5 3BJ | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 09:31"
       }
     ],
     "2026-10-15": [
@@ -19554,6 +19571,40 @@
         "added_by": "MCS Auto",
         "timestamp": "21/10/2026 11:00",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "GRS Contractors",
+        "postcode": "",
+        "contract_number": "0000032166",
+        "units": {
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Initial Water Fill; 1x Pump",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 09:31"
+      },
+      {
+        "type": "On Hire",
+        "customer": "PAS (NW) Ltd",
+        "postcode": "",
+        "contract_number": "0000032168",
+        "units": {
+          "10ft Store": 1
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Site move of 10ft store (7695)  form Wain Homes",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 09:31"
       }
     ],
     "2026-11-02": [
@@ -20203,6 +20254,23 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Greenmount Projects Ltd",
+        "postcode": "",
+        "contract_number": "0000032167",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 09:31"
       }
     ],
     "2026-10-29": [
@@ -20271,6 +20339,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Move to New Site - relocation from M7 - M25; 1x Move unit on same site",
         "added_by": "MCS Auto",
         "timestamp": "21/10/2026 16:40"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "M25 0AL",
+        "contract_number": "0000032015",
+        "units": {
+          "20ft Store": 4
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Beechcroft, Prestwich, , M25 0AL",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 09:31"
       }
     ],
     "2026-11-03": [
