@@ -19170,6 +19170,23 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Reactive Hire Ltd",
+        "postcode": "",
+        "contract_number": "0000032170",
+        "units": {
+          "Generator": 1
+        },
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 3Way Dist Board; 3x Ext Lead 32AMP",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 10:10"
       }
     ],
     "2026-10-15": [
