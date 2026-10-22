@@ -19420,6 +19420,21 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "21/10/2026 14:20"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Chandos Civil Engineering Ltd",
+        "postcode": "",
+        "contract_number": "0000032177",
+        "units": {},
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x FITTER TO CHANGE LOCKS",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 14:50"
       }
     ],
     "2026-10-14": [
