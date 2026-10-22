@@ -20456,7 +20456,8 @@
         "date_moved_by": "MCS Auto"
       }
     ],
-    "2026-11-17": [
+    "2026-11-17": [],
+    "2026-11-03": [
       {
         "type": "On Hire",
         "customer": "MCI Developments Ltd",
@@ -20470,12 +20471,13 @@
         "livery": "",
         "livery_note": "",
         "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre)",
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre) | Date moved by MCS Auto from 17/11/2026 to 03/11/2026 on 22/10/2026 11:20",
         "added_by": "MCS Auto",
-        "timestamp": "16/10/2026 13:21",
+        "timestamp": "22/10/2026 11:20",
         "moved_by": "\u2014",
         "moved_from": "2026-11-03",
-        "edited_at": "22/10/2026 10:16"
+        "edited_at": "22/10/2026 10:16",
+        "date_moved_by": "MCS Auto"
       }
     ]
   },
