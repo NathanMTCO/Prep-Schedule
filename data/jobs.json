@@ -19464,23 +19464,6 @@
             "Canteen": 1
           }
         }
-      },
-      {
-        "type": "Off Hire",
-        "customer": "A Connolly Limited",
-        "postcode": "WN6 0SR",
-        "contract_number": "0000031826",
-        "units": {
-          "20ft Store": 3
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Britannia Wigan Hotel, 234a Almond Brook Road, Wigan, , WN6 0SR | Also on contract: 1x 22ft Solar Powered Towable Cabin",
-        "added_by": "MCS Auto",
-        "timestamp": "13/10/2026 11:00"
       }
     ],
     "2026-10-30": [
@@ -19871,6 +19854,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Canteen Table",
         "added_by": "MCS Auto",
         "timestamp": "22/10/2026 13:50"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "WN6 0SR",
+        "contract_number": "0000031826",
+        "units": {
+          "20ft Store": 3
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Britannia Wigan Hotel, 234a Almond Brook Road, Wigan, , WN6 0SR | Also on contract: 1x 22ft Solar Powered Towable Cabin | Return date moved by MCS Auto from 14/10/2026 to 23/10/2026 on 23/10/2026 12:20",
+        "added_by": "MCS Auto",
+        "timestamp": "23/10/2026 12:20",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-21": [
