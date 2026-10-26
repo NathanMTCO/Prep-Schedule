@@ -19005,23 +19005,6 @@
     ],
     "2026-10-26": [
       {
-        "type": "On Hire",
-        "customer": "Domis Plant Ltd",
-        "postcode": "",
-        "contract_number": "0000032071",
-        "units": {
-          "Stairs": 2
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 2x 32ft 6+1 Toilet Block FR; 2x Double Stack/ Erect Staircase; 2x Destack",
-        "added_by": "MCS Auto",
-        "timestamp": "05/10/2026 09:31"
-      },
-      {
         "type": "Off Hire",
         "customer": "Manchester and Cheshire",
         "postcode": "SK12 1NW",
