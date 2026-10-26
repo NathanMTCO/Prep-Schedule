@@ -19709,6 +19709,34 @@
           }
         },
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Bethell Plant Services Ltd",
+        "postcode": "",
+        "contract_number": "0000032189",
+        "units": {
+          "32ft AV": 3,
+          "3+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1,
+          "Stairs": 1
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10; 1x Double Stack/ Erect Staircase",
+        "added_by": "MCS Auto",
+        "timestamp": "26/10/2026 12:30",
+        "av_configs": {
+          "32ft AV": {
+            "Office": 2,
+            "Canteen": 1
+          }
+        }
       }
     ],
     "2026-10-31": [
