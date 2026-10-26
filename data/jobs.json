@@ -19047,24 +19047,6 @@
       },
       {
         "type": "On Hire",
-        "customer": "Alpine Hire Ltd",
-        "postcode": "",
-        "contract_number": "0000032103",
-        "units": {
-          "20ft Store": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Date moved by MCS Auto from 12/10/2026 to 26/10/2026 on 08/10/2026 15:10",
-        "added_by": "MCS Auto",
-        "timestamp": "08/10/2026 15:10",
-        "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "On Hire",
         "customer": "Elite Access Solutions (EAS) Ltd",
         "postcode": "",
         "contract_number": "0000032109",
