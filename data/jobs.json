@@ -20334,6 +20334,24 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Connolly site compound, Barn Meadow, Clayton Brook, , PR5 8EA",
         "added_by": "MCS Auto",
         "timestamp": "22/10/2026 16:00"
+      },
+      {
+        "type": "On Hire",
+        "customer": "Just Welfare",
+        "postcode": "",
+        "contract_number": "0000032191",
+        "units": {
+          "24ft AV": 1,
+          "10ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 12x Cushion Chair; 2x PAINTED FIR GREEN 50/50",
+        "added_by": "MCS Auto",
+        "timestamp": "26/10/2026 15:10"
       }
     ],
     "2026-10-28": [
