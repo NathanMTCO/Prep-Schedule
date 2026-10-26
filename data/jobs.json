@@ -19083,6 +19083,34 @@
         "type": "On Hire",
         "customer": "Reactive Hire Ltd",
         "postcode": "",
+        "contract_number": "0000032169",
+        "units": {
+          "24ft AV": 2,
+          "Stairs": 1,
+          "3+1": 1,
+          "Tank": 1,
+          "Steps": 2,
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Double Stack/ Erect Staircase; 1x Destack; 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10",
+        "added_by": "MCS Auto",
+        "timestamp": "22/10/2026 10:00",
+        "av_configs": {
+          "24ft AV": {
+            "Office": 1,
+            "Canteen": 1
+          }
+        }
+      },
+      {
+        "type": "On Hire",
+        "customer": "Reactive Hire Ltd",
+        "postcode": "",
         "contract_number": "0000032170",
         "units": {
           "Generator": 1
@@ -20519,26 +20547,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Beechcroft, Prestwich, , M25 0AL",
         "added_by": "MCS Auto",
         "timestamp": "22/10/2026 09:31"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "A Connolly Limited",
-        "postcode": "BB7 1DX",
-        "contract_number": "0000031796",
-        "units": {
-          "20ft Store": 2,
-          "10ft Store": 1,
-          "Static Welfare": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: John Wall Court Car Park Area, Clitheroe, , BB7 1DX | Also on contract: 80x Initial Fuel Fill; 1x Initial Water Fill | Return date moved by MCS Auto from 22/10/2026 to 29/10/2026 on 23/10/2026 09:32",
-        "added_by": "MCS Auto",
-        "timestamp": "23/10/2026 09:32",
-        "date_moved_by": "MCS Auto"
       },
       {
         "type": "Off Hire",
