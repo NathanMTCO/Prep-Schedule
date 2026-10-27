@@ -19564,24 +19564,6 @@
         "timestamp": "19/10/2026 14:31"
       },
       {
-        "type": "Off Hire",
-        "customer": "Termrim Construction Ltd",
-        "postcode": "LS29 6AR",
-        "contract_number": "0000031911",
-        "units": {
-          "Mobile Welfare": 2
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Moor Lane, Menston, Ilkley, , LS29 6AR | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre) | Return date moved by MCS Auto from 16/10/2026 to 30/10/2026 on 20/10/2026 13:00",
-        "added_by": "MCS Auto",
-        "timestamp": "20/10/2026 13:00",
-        "date_moved_by": "MCS Auto"
-      },
-      {
         "type": "On Hire",
         "customer": "PAS (NW) Ltd",
         "postcode": "",
@@ -20795,6 +20777,24 @@
             "Office": 1
           }
         },
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Termrim Construction Ltd",
+        "postcode": "LS29 6AR",
+        "contract_number": "0000031911",
+        "units": {
+          "Mobile Welfare": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Moor Lane, Menston, Ilkley, , LS29 6AR | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill; 1x One Off Fuel Delivery (Per Litre) | Return date moved by MCS Auto from 16/10/2026 to 30/10/2026 on 20/10/2026 13:00 | Return date moved by MCS Auto from 30/10/2026 to 06/11/2026 on 27/10/2026 13:20",
+        "added_by": "MCS Auto",
+        "timestamp": "27/10/2026 13:20",
         "date_moved_by": "MCS Auto"
       }
     ],
