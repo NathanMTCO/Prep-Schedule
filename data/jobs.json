@@ -16095,26 +16095,6 @@
         "timestamp": "21/09/2026 09:51"
       },
       {
-        "type": "Off Hire",
-        "customer": "AIS Vanguard Ltd",
-        "postcode": "CH2 4LB",
-        "contract_number": "0000032012",
-        "units": {
-          "3+1": 1,
-          "Steps": 2,
-          "IBC": 1,
-          "2+1": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: PLOT 13 - PROTOS, GRINSOME ROAD, INCE, , CH2 4LB | Also on contract: 1x 1000G Eflluent Tank; 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10",
-        "added_by": "MCS Auto",
-        "timestamp": "21/09/2026 11:24"
-      },
-      {
         "type": "On Hire",
         "customer": "A Connolly Limited",
         "postcode": "",
@@ -19420,6 +19400,27 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x Fitter Labour for Repair",
         "added_by": "MCS Auto",
         "timestamp": "23/10/2026 16:01"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "AIS Vanguard Ltd",
+        "postcode": "CH2 4LB",
+        "contract_number": "0000032012",
+        "units": {
+          "3+1": 1,
+          "Steps": 2,
+          "IBC": 1,
+          "2+1": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: PLOT 13 - PROTOS, GRINSOME ROAD, INCE, , CH2 4LB | Also on contract: 1x 1000G Eflluent Tank; 1x Pump; 1x Initial Water Fill; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Disposable Sanitary Bins. Pk10 | Return date moved by MCS Auto from 25/09/2026 to 27/10/2026 on 27/10/2026 12:40",
+        "added_by": "MCS Auto",
+        "timestamp": "27/10/2026 12:40",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-10-14": [
