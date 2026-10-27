@@ -19175,29 +19175,6 @@
       },
       {
         "type": "Off Hire",
-        "customer": "A Connolly Limited",
-        "postcode": "M34 7PJ",
-        "contract_number": "0000032128",
-        "units": {
-          "24ft AV": 1
-        },
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: 1 Tatton Road, Manchester, , M34 7PJ | Return date moved by MCS Auto from 22/10/2026 to 26/10/2026 on 23/10/2026 14:50",
-        "added_by": "MCS Auto",
-        "timestamp": "23/10/2026 14:50",
-        "av_configs": {
-          "24ft AV": {
-            "Canteen": 1
-          }
-        },
-        "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "Off Hire",
         "customer": "Northstone Development Ltd",
         "postcode": "CH62 3NX",
         "contract_number": "0000031101",
@@ -19681,6 +19658,29 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: R J Heathman (Contractors) Ltd, Boots Chemist Loading Bay, 7 Chester Rd, Broughton, Chester, , CH4",
         "added_by": "MCS Auto",
         "timestamp": "23/10/2026 15:00"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "M34 7PJ",
+        "contract_number": "0000032128",
+        "units": {
+          "24ft AV": 1
+        },
+        "haulage": "None",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: 1 Tatton Road, Manchester, , M34 7PJ | Return date moved by MCS Auto from 22/10/2026 to 26/10/2026 on 23/10/2026 14:50 | Return date moved by MCS Auto from 26/10/2026 to 30/10/2026 on 27/10/2026 10:30",
+        "added_by": "MCS Auto",
+        "timestamp": "27/10/2026 10:30",
+        "av_configs": {
+          "24ft AV": {
+            "Canteen": 1
+          }
+        },
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-11-02": [
