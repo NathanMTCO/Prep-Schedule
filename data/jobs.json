@@ -21088,6 +21088,25 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Keepmoat Homes, Halegate Road, Widnes, , WA8 8LY | Also on contract: 1x 1000G Eflluent Tank; 1x Pump; 1x 32amp 230v 20mtr Plug; 1x Weekly Water Fill; 1x Chargeable Weekly Tank Empty; 1x Chargeable One Off Tank Empty - 06/10 aborted; 1x Chargeable One Off Tank Empty - 07/10",
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 11:41"
+      },
+      {
+        "type": "On Hire",
+        "customer": "CAST NORTHWEST",
+        "postcode": "",
+        "contract_number": "0000032206",
+        "units": {
+          "4+2": 1,
+          "Tank": 1,
+          "Steps": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "28/10/2026 16:01"
       }
     ],
     "2026-11-05": [
@@ -21135,6 +21154,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 32ft Male / Female Shower / Toilet Block; 1x Chargeable Weekly Tank Empty; 1x Pump; 1x Weekly Water Fill Per 1000L; 1x 63AMP Extension Leads",
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 13:11"
+      },
+      {
+        "type": "On Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "",
+        "contract_number": "0000032207",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "28/10/2026 16:01"
       }
     ],
     "2026-11-16": [
