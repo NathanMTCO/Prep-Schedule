@@ -20396,6 +20396,36 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 12x Cushion Chair; 2x PAINTED FIR GREEN 50/50",
         "added_by": "MCS Auto",
         "timestamp": "26/10/2026 15:10"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Almond Civils Ltd",
+        "postcode": "PR7 5HT",
+        "contract_number": "0000030170",
+        "units": {},
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Elmbrook Park, Blainscough Lane, Coppull, , PR7 5HT | Also on contract: 1x 12ft Anti-Vandal Office; 1x Filing Cabinet; 1x Upholstered Chair",
+        "added_by": "MCS Auto",
+        "timestamp": "28/10/2026 09:41"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Almond Civils Ltd",
+        "postcode": "PR7 5HT",
+        "contract_number": "0000030246",
+        "units": {},
+        "haulage": "External Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Elmbrook Park, Story Homes, Coppull, , PR7 5HT | Also on contract: 1x ReHire Power 10KVA; 1x ReHire Power 32A 1PH Cable 25m; 1x Call out Charge 22/05",
+        "added_by": "MCS Auto",
+        "timestamp": "28/10/2026 09:41"
       }
     ],
     "2026-10-28": [
