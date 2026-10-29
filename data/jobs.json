@@ -21225,6 +21225,23 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Also on contract: 1x 32ft Male / Female Shower / Toilet Block; 1x Chargeable Weekly Tank Empty; 1x Pump; 1x Weekly Water Fill Per 1000L; 1x 63AMP Extension Leads",
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 13:31"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "OL9 8JN",
+        "contract_number": "0000031696",
+        "units": {
+          "20ft Store": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: HOLLINWOOD ARLFC, FEILDS NEW ROAD, CHADDERTON, OLDHAM, OL9 8JN",
+        "added_by": "MCS Auto",
+        "timestamp": "29/10/2026 16:40"
       }
     ],
     "2026-11-12": [
@@ -21247,6 +21264,23 @@
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 16:11",
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "On Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "",
+        "contract_number": "0000032209",
+        "units": {
+          "20ft Store": 2
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping.",
+        "added_by": "MCS Auto",
+        "timestamp": "29/10/2026 16:40"
       }
     ],
     "2026-11-11": [
