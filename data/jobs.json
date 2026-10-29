@@ -20803,6 +20803,24 @@
             "Canteen": 1
           }
         }
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "OL9 8NH",
+        "contract_number": "0000030988",
+        "units": {
+          "Static Welfare": 1,
+          "20ft Store": 6
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Connolly Cabins at Melrose Playing Fields,, Fields New rd, Chadderton, , OL9 8NH | Also on contract: 1x Inital Water Fill; 56x Initial Fuel; 85x Fuel; 1x Chargeable Weekly welfare service",
+        "added_by": "MCS Auto",
+        "timestamp": "29/10/2026 09:50"
       }
     ],
     "2026-11-25": [
