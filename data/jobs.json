@@ -19676,6 +19676,22 @@
           }
         },
         "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "OL4 2DQ",
+        "contract_number": "0000032064",
+        "units": {},
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Holt Street, Oldham, Greater Manchester, , OL4 2DQ | Also on contract: 1x ReHire Welfare Unit | Return date moved by MCS Auto from 02/11/2026 to 30/10/2026 on 29/10/2026 09:50",
+        "added_by": "MCS Auto",
+        "timestamp": "29/10/2026 09:50",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-11-02": [
@@ -19771,21 +19787,6 @@
             "Drying Room": 1
           }
         }
-      },
-      {
-        "type": "Off Hire",
-        "customer": "MCI Developments Ltd",
-        "postcode": "OL4 2DQ",
-        "contract_number": "0000032064",
-        "units": {},
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Holt Street, Oldham, Greater Manchester, , OL4 2DQ | Also on contract: 1x ReHire Welfare Unit",
-        "added_by": "MCS Auto",
-        "timestamp": "27/10/2026 11:40"
       },
       {
         "type": "On Hire",
