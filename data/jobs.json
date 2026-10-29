@@ -19821,6 +19821,23 @@
         "notes": "Auto-added from MCS. Check details before prepping.",
         "added_by": "MCS Auto",
         "timestamp": "27/10/2026 13:00"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Premier Building Supplies Ltd",
+        "postcode": "SK12 1NQ",
+        "contract_number": "0000031975",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: W P Murphy Ltd, 32 Copperfield, Poynton, Stockport, SK12 1NQ",
+        "added_by": "MCS Auto",
+        "timestamp": "29/10/2026 17:00"
       }
     ],
     "2026-10-31": [
