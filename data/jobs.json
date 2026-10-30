@@ -20780,23 +20780,6 @@
       },
       {
         "type": "Off Hire",
-        "customer": "Richard O'Brien Joinery & Building Ltd",
-        "postcode": "CH47 6BD",
-        "contract_number": "0000031858",
-        "units": {
-          "Chemiloo": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: 7 BEACHCROFT ROAD, MEOLS, WIRRAL, , CH47 6BD",
-        "added_by": "MCS Auto",
-        "timestamp": "28/10/2026 09:51"
-      },
-      {
-        "type": "Off Hire",
         "customer": "Termrim Construction Ltd",
         "postcode": "LS26 8EW",
         "contract_number": "0000031859",
@@ -20811,40 +20794,6 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: SUGAR HILL CLOSE, LEEDS, , LS26 8EW | Also on contract: 56x Initial Fuel Fill; 1x Initial Water Fill",
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 09:51"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "A Connolly Limited",
-        "postcode": "OL9 8NH",
-        "contract_number": "0000030988",
-        "units": {
-          "Static Welfare": 1,
-          "20ft Store": 6
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Connolly Cabins at Melrose Playing Fields,, Fields New rd, Chadderton, , OL9 8NH | Also on contract: 1x Inital Water Fill; 56x Initial Fuel; 85x Fuel; 1x Chargeable Weekly welfare service",
-        "added_by": "MCS Auto",
-        "timestamp": "29/10/2026 09:50"
-      },
-      {
-        "type": "Off Hire",
-        "customer": "MCI Developments Ltd",
-        "postcode": "OL11 2XG",
-        "contract_number": "0000032003",
-        "units": {},
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Trub Farm, Rochdale, , OL11 2XG | Also on contract: 1x ReHire Welfare Unit. 24ft | Return date moved by MCS Auto from 29/10/2026 to 03/11/2026 on 27/10/2026 10:20 | Return date moved by MCS Auto from 03/11/2026 to 29/10/2026 on 29/10/2026 10:10",
-        "added_by": "MCS Auto",
-        "timestamp": "29/10/2026 10:10",
-        "date_moved_by": "MCS Auto"
       },
       {
         "type": "Off Hire",
@@ -21058,6 +21007,40 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: Fieldfare way, Bacup, , OL13 9PA",
         "added_by": "MCS Auto",
         "timestamp": "28/10/2026 09:31"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "MCI Developments Ltd",
+        "postcode": "OL11 2XG",
+        "contract_number": "0000032003",
+        "units": {},
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Trub Farm, Rochdale, , OL11 2XG | Also on contract: 1x ReHire Welfare Unit. 24ft | Return date moved by MCS Auto from 29/10/2026 to 03/11/2026 on 27/10/2026 10:20 | Return date moved by MCS Auto from 03/11/2026 to 29/10/2026 on 29/10/2026 10:10 | Return date moved by MCS Auto from 29/10/2026 to 03/11/2026 on 30/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "30/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "Richard O'Brien Joinery & Building Ltd",
+        "postcode": "CH47 6BD",
+        "contract_number": "0000031858",
+        "units": {
+          "Chemiloo": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: 7 BEACHCROFT ROAD, MEOLS, WIRRAL, , CH47 6BD | Return date moved by MCS Auto from 29/10/2026 to 03/11/2026 on 30/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "30/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-11-09": [
@@ -21259,6 +21242,25 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: HOLLINWOOD ARLFC, FEILDS NEW ROAD, CHADDERTON, OLDHAM, OL9 8JN",
         "added_by": "MCS Auto",
         "timestamp": "29/10/2026 16:40"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "A Connolly Limited",
+        "postcode": "OL9 8NH",
+        "contract_number": "0000030988",
+        "units": {
+          "Static Welfare": 1,
+          "20ft Store": 6
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: Connolly Cabins at Melrose Playing Fields,, Fields New rd, Chadderton, , OL9 8NH | Also on contract: 1x Inital Water Fill; 56x Initial Fuel; 85x Fuel; 1x Chargeable Weekly welfare service | Return date moved by MCS Auto from 29/10/2026 to 16/11/2026 on 30/10/2026 09:31",
+        "added_by": "MCS Auto",
+        "timestamp": "30/10/2026 09:31",
+        "date_moved_by": "MCS Auto"
       }
     ],
     "2026-11-12": [
