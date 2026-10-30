@@ -15398,25 +15398,6 @@
       },
       {
         "type": "Off Hire",
-        "customer": "M Group NW Ltd",
-        "postcode": "L11 9DX",
-        "contract_number": "0000031112",
-        "units": {
-          "20ft Store": 1,
-          "20ft AV": 1,
-          "IBC": 1
-        },
-        "haulage": "Internal Haulage",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: -, Liverpool, , L11 9DX | Also on contract: 2x Decals on Office; 1x Pump; 1x Weekly Water Fill; 1x Water Barrel",
-        "added_by": "MCS Auto",
-        "timestamp": "11/09/2026 13:39"
-      },
-      {
-        "type": "Off Hire",
         "customer": "Exact Property Services Ltd",
         "postcode": "M25 0AT",
         "contract_number": "0000030079",
@@ -19649,6 +19630,26 @@
         "notes": "Auto-added from MCS. Check details before prepping. | Site: -, Liverpool, , L11 9DX | Also on contract: 1x Weekly Water Fill; 1x Water Barrel | Return date moved by MCS Auto from 13/10/2026 to 30/10/2026 on 30/10/2026 15:41",
         "added_by": "MCS Auto",
         "timestamp": "30/10/2026 15:41",
+        "date_moved_by": "MCS Auto"
+      },
+      {
+        "type": "Off Hire",
+        "customer": "M Group NW Ltd",
+        "postcode": "L11 9DX",
+        "contract_number": "0000031112",
+        "units": {
+          "20ft Store": 1,
+          "20ft AV": 1,
+          "IBC": 1
+        },
+        "haulage": "Internal Haulage",
+        "haulage_who": "",
+        "livery": "",
+        "livery_note": "",
+        "install_dismantle": false,
+        "notes": "Auto-added from MCS. Check details before prepping. | Site: -, Liverpool, , L11 9DX | Also on contract: 2x Decals on Office; 1x Pump; 1x Weekly Water Fill; 1x Water Barrel | Return date moved by MCS Auto from 15/09/2026 to 30/10/2026 on 30/10/2026 16:00",
+        "added_by": "MCS Auto",
+        "timestamp": "30/10/2026 16:00",
         "date_moved_by": "MCS Auto"
       }
     ],
