@@ -20710,33 +20710,6 @@
       },
       {
         "type": "Off Hire",
-        "customer": "Just Welfare",
-        "postcode": "OX14 4TA",
-        "contract_number": "0000031471",
-        "units": {
-          "32ft AV": 7,
-          "Steps": 4,
-          "20ft Store": 2,
-          "3+1": 2
-        },
-        "haulage": "None",
-        "haulage_who": "",
-        "livery": "",
-        "livery_note": "",
-        "install_dismantle": false,
-        "notes": "Auto-added from MCS. Check details before prepping. | Site: Loverose Way, Off A4130, Abingdon, , OX14 4TA | Also on contract: 1x Staircase; 1x 10ft Coshh Store; 1x Staircase | Return date moved by MCS Auto from 27/10/2026 to 29/10/2026 on 27/10/2026 15:51",
-        "added_by": "MCS Auto",
-        "timestamp": "27/10/2026 15:51",
-        "av_configs": {
-          "32ft AV": {
-            "Office": 1,
-            "Canteen": 1
-          }
-        },
-        "date_moved_by": "MCS Auto"
-      },
-      {
-        "type": "Off Hire",
         "customer": "Termrim Construction Ltd",
         "postcode": "LS26 8EW",
         "contract_number": "0000031859",
